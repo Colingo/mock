@@ -54,4 +54,3 @@ Limitations:
   [2]: http://travis-ci.org/Colingo/mock
   [3]: http://ci.testling.com/Colingo/mock.png
   [4]: http://ci.testling.com/Colingo/mock
-
