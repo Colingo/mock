@@ -6,7 +6,7 @@
 
 Load a module with it's require's mocked out
 
-Works in both node and browserify
+Works in both node and browserify 1.x
 
 ## Example
 
